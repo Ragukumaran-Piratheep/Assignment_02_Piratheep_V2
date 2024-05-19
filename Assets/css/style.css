@@ -1,19 +1,20 @@
-#navigation {
-    
-  
-}
+
 
 #top{
-    background-color: #2b3f3c;
+    background-color: #f2644c;
 }
 
 #Home {
     align-items: center;
 }
 
-/* .image2 {
-    background-color: rgb(255, 247, 225);
-} */
+.home1{
+    background-color:off white;
+}
+
+.clients {
+    background-color: #393939;;
+}
 
 .col {
     padding: 10px;
@@ -21,17 +22,10 @@
 
 .col-md {
     padding: 10px;
+    
 }
 
-/* #portfolio {
-    background-color: #eaeaea;
-} */
 
-/* .footer{
-    background-color: #2b3f3c;
-    color: white;
-} */
-/* line */
 .line{
     width: 60px;
     height: 15px;
